@@ -1,3 +1,11 @@
+#Operadores:
+#PARA SUMAR ESCRIBE suma
+#PARA RESTAR ESCRIBE resta
+#PARA DIVIDIR ESCRIBE division
+#PARA MULTIPLICAR ESCRIBE multiplicacion
+#PARA POTENCIA ESCRIBE potenciacion
+#PARA RADICACION ESCRIBE raiz
+
 num1=int(input("Ingresa tu primer número:"))
 num2=int(input("Ingresa tu segundo número:"))
 operator=input("Operación que deseas realizar en formato de texto:")
